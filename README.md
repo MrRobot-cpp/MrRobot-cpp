@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a **Computer Science student minoring in Cyber
 - 🎓 **Student** at Misr International University (MIU), expected to graduate in 2026.
 - 🔐 **Cybersecurity enthusiast** exploring secure software development and DevSecOps practices.
 - 🕹️ **Esports and gaming advocate**, with years of experience managing tournaments and building gaming communities.
-- 🌱 **Currently learning**: Docker, Kubernetes, and advanced penetration testing techniques.
+- 🌱 **Currently learning**: Docker, Kubernetes, Terraform, and advanced penetration testing techniques.
 
 ### 📂 Featured Projects
 Here are some projects I'm proud of:
@@ -26,9 +26,11 @@ Here are some projects I'm proud of:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 
 ### 📊 GitHub Stats
 ![Shady's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrRobot-cpp&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobot-cpp&layout=compact&theme=radical)
 
 ### 🔗 Connect With Me
 - 🌐 Portfolio [TBA]
