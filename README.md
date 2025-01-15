@@ -33,7 +33,6 @@ Here are some projects I'm proud of:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MrRobot-cpp&layout=compact&theme=radical)
 
 ### 🔗 Connect With Me
-- 🌐 Portfolio [TBA]
 - 💼 [LinkedIn](https://linkedin.com/in/shady-yasser-kaneki) 
 - 📧 [Email](mailto:shadyyasseradel@gmail.com)
 
