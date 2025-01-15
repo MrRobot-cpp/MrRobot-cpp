@@ -10,11 +10,11 @@ Welcome to my GitHub profile! I'm a **Computer Science student minoring in Cyber
 
 ### 📂 Featured Projects
 Here are some projects I'm proud of:
-- **[Secured To-Do List](https://github.com/your-repo-link)**  
+- **[Secured To-Do List](https://github.com/MrRobot-cpp/Secured-To-do-List)**  
   A secure to-do list application with features like **Encryption**, **Hashing**, **CRUD operations**, **SQL injection prevention**, and **OTP-based authentication**.  
   _Technologies:_  PHP, JavaScript, CSS, HTML, MySQL, PHPMailer, PDO, MVC Architecture, OOP.
 
-- **[Bus Management System](https://github.com/your-repo-link)**  
+- **[Bus Management System](https://github.com/MrRobot-cpp/Bus-Management-Project)**  
   A full-stack web app for managing bus trips and student records. Includes dashboards for drivers and admins with geolocation integration [Not Fully Functioning yet].  
   _Technologies:_ MERN Stack (MongoDB, Express.js, React, Node.js), Figma, Geolocation API.
 
